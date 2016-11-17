@@ -8,3 +8,7 @@ Clone this repo and run the setup script:
 
 # This is a application backup for development
 This and the setup script for angular-scaffolding are both compatible with PhoneGap UI.
+
+* Start your PhoneGap server with a new project. 
+* Copy and paste all files/ folders within the /www phonegap project file structure.
+* Get to work!
